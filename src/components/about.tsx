@@ -41,7 +41,7 @@ export default function About() {
             About Me
           </h2>
           <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-            끊임없이 성장하는 개발자, 성우연입니다
+            끊임없이 성장하는 개발자, Ethan-Youn 입니다
           </p>
         </div>
 
@@ -57,7 +57,7 @@ export default function About() {
             <CardContent className="space-y-4">
               <p className="text-muted-foreground">
                 안녕하세요! 사용자 중심의 웹 애플리케이션을 개발하는 것에 열정을 가진 
-                풀스택 개발자 성우연입니다. 
+                풀스택 개발자 Ethan-Youn 입니다. 
               </p>
               <p className="text-muted-foreground">
                 React와 Next.js를 중심으로 한 프론트엔드 개발부터 Node.js와 Python을 

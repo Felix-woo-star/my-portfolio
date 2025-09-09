@@ -8,14 +8,14 @@ export default function Hero() {
       <div className="max-w-4xl mx-auto text-center space-y-8">
         {/* Profile Image Placeholder */}
         <div className="w-32 h-32 mx-auto rounded-full bg-gradient-to-r from-primary to-primary/60 flex items-center justify-center mb-8">
-          <span className="text-3xl font-bold text-primary-foreground">YS</span>
+          <span className="text-3xl font-bold text-primary-foreground">SW</span>
         </div>
 
         {/* Main Heading */}
         <div className="space-y-4">
           <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-foreground">
             안녕하세요, <br />
-            <span className="text-primary">성우연</span>입니다
+            <span className="text-primary">Ethan-Youn</span>입니다
           </h1>
           <p className="text-xl sm:text-2xl text-muted-foreground max-w-2xl mx-auto">
             열정적인 풀스택 개발자로서 사용자 중심의 웹 애플리케이션을 만들어갑니다

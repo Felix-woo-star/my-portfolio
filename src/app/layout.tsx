@@ -13,12 +13,12 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "성우연 | 풀스택 개발자 포트폴리오",
-  description: "React, Next.js, TypeScript를 주로 사용하는 풀스택 개발자 성우연의 포트폴리오입니다. 사용자 중심의 웹 애플리케이션 개발에 열정을 가지고 있습니다.",
-  keywords: ["성우연", "풀스택 개발자", "React", "Next.js", "TypeScript", "포트폴리오", "웹 개발"],
-  authors: [{ name: "성우연" }],
+  title: "Ethan Youn | 풀스택 개발자 포트폴리오",
+  description: "React, Next.js, TypeScript를 주로 사용하는 풀스택 개발자 성우의 포트폴리오입니다. 사용자 중심의 웹 애플리케이션 개발에 열정을 가지고 있습니다.",
+  keywords: ["Ethan-Youn", "풀스택 개발자", "React", "Next.js", "TypeScript", "포트폴리오", "웹 개발"],
+  authors: [{ name: "Ethan-Youn" }],
   openGraph: {
-    title: "성우연 | 풀스택 개발자 포트폴리오",
+    title: "Ethan-Youn | 풀스택 개발자 포트폴리오",
     description: "사용자 중심의 웹 애플리케이션을 만드는 풀스택 개발자",
     type: "website",
     locale: "ko_KR",

@@ -8,8 +8,8 @@ export default function Contact() {
     {
       icon: Mail,
       label: "Email",
-      value: "sungwoo.youn@example.com",
-      href: "mailto:sungwoo.youn@example.com",
+      value: "ysw001@hotmail.com",
+      href: "mailto:ysw001@hotmail.com",
       description: "언제든 편하게 연락해주세요"
     },
     {
@@ -39,7 +39,7 @@ export default function Contact() {
     {
       icon: Linkedin,
       label: "LinkedIn",
-      value: "성우연",
+      value: "윤성우",
       href: "https://linkedin.com/in/username",
       description: "전문적인 네트워킹"
     },
