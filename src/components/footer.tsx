@@ -29,7 +29,7 @@ export default function Footer() {
         <div className="grid grid-cols-1 md:grid-cols-4 gap-8">
           {/* Brand */}
           <div className="space-y-4">
-            <h3 className="text-xl font-bold text-foreground">성우연</h3>
+            <h3 className="text-xl font-bold text-foreground">Ethan-Youn</h3>
             <p className="text-sm text-muted-foreground max-w-xs">
               사용자 중심의 웹 애플리케이션을 만드는 
               풀스택 개발자입니다.
@@ -94,7 +94,7 @@ export default function Footer() {
                 href="mailto:sungwoo.youn@example.com"
                 className="hover:text-foreground transition-colors"
               >
-                sungwoo.youn@example.com
+                ysw001@hotmail.com
               </a>
               <p>원격 근무 가능</p>
             </div>
@@ -117,7 +117,7 @@ export default function Footer() {
         {/* Bottom Section */}
         <div className="flex flex-col sm:flex-row justify-between items-center space-y-4 sm:space-y-0">
           <div className="flex items-center space-x-2 text-sm text-muted-foreground">
-            <span>© 2024 성우연. All rights reserved.</span>
+            <span>© 2025 Ethan-Youn. All rights reserved.</span>
           </div>
           
           <div className="flex items-center space-x-1 text-sm text-muted-foreground">

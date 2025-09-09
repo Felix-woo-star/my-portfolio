@@ -1,6 +1,6 @@
 # 성우연 포트폴리오
 
-React, Next.js, TypeScript를 주로 사용하는 풀스택 개발자 성우연의 포트폴리오 웹사이트입니다.
+React, Next.js, TypeScript를 주로 사용하는 풀스택 개발자 Ethan-Youn의 포트폴리오 웹사이트입니다.
 
 ## 🚀 기술 스택
 
@@ -101,7 +101,7 @@ pnpm dev
 
 - **Email**: sungwoo.youn@example.com
 - **GitHub**: [Felix-woo-star](https://github.com/Felix-woo-star)
-- **LinkedIn**: 성우연
+- **LinkedIn**: 윤성우
 
 ## 📄 라이선스
 
