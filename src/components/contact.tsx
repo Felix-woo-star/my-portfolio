@@ -15,8 +15,8 @@ export default function Contact() {
     {
       icon: Phone,
       label: "Phone",
-      value: "+82 10-1234-5678",
-      href: "tel:+821012345678",
+      value: "+82 10-3664-2520",
+      href: "tel:+821036642520",
       description: "평일 오전 9시 ~ 오후 6시"
     },
     {
@@ -33,14 +33,14 @@ export default function Contact() {
       icon: Github,
       label: "GitHub",
       value: "@username",
-      href: "https://github.com/username",
+      href: "https://github.com/Felix-woo-star",
       description: "프로젝트와 오픈소스 기여"
     },
     {
       icon: Linkedin,
       label: "LinkedIn",
       value: "윤성우",
-      href: "https://linkedin.com/in/username",
+      href: "www.linkedin.com/in/sungwoo-youn-037006191",
       description: "전문적인 네트워킹"
     },
     {
@@ -53,7 +53,7 @@ export default function Contact() {
   ];
 
   const interests = [
-    "웹 개발", "오픈소스", "UI/UX", "클린 코드", "팀 협업", "지속적 학습"
+    "파이썬", "백엔드", "머신러닝", "딥러닝", "컴퓨터비전", "클린 코드", "팀 협업", "지속적 학습"
   ];
 
   return (
