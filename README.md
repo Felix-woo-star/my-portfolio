@@ -1,4 +1,4 @@
-# 성우연 포트폴리오
+# 성우윤 포트폴리오
 
 React, Next.js, TypeScript를 주로 사용하는 풀스택 개발자 Ethan-Youn의 포트폴리오 웹사이트입니다.
 
@@ -99,7 +99,7 @@ pnpm dev
 
 ## 📞 연락처
 
-- **Email**: sungwoo.youn@example.com
+- **Email**: ysw001@hotmail.com
 - **GitHub**: [Felix-woo-star](https://github.com/Felix-woo-star)
 - **LinkedIn**: 윤성우
 
